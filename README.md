@@ -35,7 +35,7 @@ From 2019, the number of movies produced peaked in 2018 and in 2019, started to 
 The top 2 movies genres produced in the industry are:
 * Drama and Documentary 
 
-![ROI vs Genre](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/669b118c-5a33-4d2a-97c9-c937c77a037b)
+![ROI vs Genre](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/d8a00d4a-7243-4ee2-bb26-7b5fc7192041)
 
 ### 3. Friday is the best day to release a movie
 
