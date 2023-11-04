@@ -1,65 +1,63 @@
-# Phase 1 Project
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+# Final Project Submission
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
+* Student Name: Lucy Chepkemoi Ruto
+* Student Pace: Part-time
+* Scheduled project review date/time: 5th November 2023 at 8:00 P.M
+* Instructor Name: Everlyn Asiko/ Samwel Jane/ Samuel Mwangi/ Mildred Jepkosgei/ Veronica Isiaho
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+# Microsoft Corporation Needs Analysis
+![Alt text](c:/Users/Hp/Documents/Flatiron/Phase-1/dsc-phase-1-project/images/Microsoft.jpg)
 
-## Project Overview
+## Overview
+This project explores the types of films that are currently doing the well at the box office and  needs of the [Microsoft Corporation](https://www.microsoft.com/) which wants to set-up a new movie studio. The Microsoft corporation can use these insights to decide what type of films to create.
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
-
-### Business Problem
-
+## Business Problem
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-### The Data
-
-In the folder `zippedData` are movie datasets from:
-
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
+## Data
+This project utilized datasets from the following movie sites:
+* [IMDBLinks](https://www.imdb.com/)
+This site provided the different genres of movies.
 * [The Numbers](https://www.the-numbers.com/)
+This site provided the budgets that went into the production of different movies and the profits realized(both locally and oversees). From te data, Return on Investment was computed.
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+## Methods
+This project utilizes descriptive analysis, including description of trends over time.
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+## Results
+### 1. Movie Production is declining
+From 2019, the number of movies produced peaked in 2018 and in 2019, started to decline coinciding with the COVID-19 pandemic. The industry is yet to pick up the production rate which appears to have leveled off.
+![Alt text](c:/Users/Hp/Documents/Flatiron/Phase-1/dsc-phase-1-project/images/Capture.PNG)
 
-## Deliverables
+### 2. Drama is the most popular Movie Genre.
+Top 3 movies genres produced in the industry are:
+* Drama, Documentary, Comedy 
+Bottom 3 movies genres produced in the industry are:
+* Short, Adult, Game-Shows
 
-There are three deliverables for this project:
+### 3. Friday is the best day to realease a movie
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+Companies that release movies on Friday Made the highest Return on Investment by a huge margin. The worst days to release a movie would be Saturday through Monday.
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+## Conclusion
+This analysis leads to three recommendations which Microsoft Corporation can take into account before deciding on what movies to make:
 
-### Key Points
+* Focus on producing either of the top 2 genres: Drama and Documentary which also have the highest Return on Investment
+* Release any movies it intends to produce on a Friday to realise the highest Return on Investment.
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+## Next steps
+Further analyses could yield additional insights to further improve operations at AAC:
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+* **Incoorporate datasets movie ratings indicating User-Id.** This dataset will weed out more than one rating from a person and give a clear picture of the market preference.
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+## For More Information
+See the full analysis in the [Jupyter Notebook](./Microsoft-needs-analysis.ipynb) or review this [presentation](./Microsoft_Needs_Presentation.pdf).
 
-## Getting Started
+For additional info, contact Chepkemoi Ruto at [chepkemoi.ruto@student.moringaschool.com](mailto:chepkemoi.ruto@student.moringaschool.com)
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
 
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
+## Authors
 
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+- [Lucy Ruto](https://github.com/LCR2022)
 
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
