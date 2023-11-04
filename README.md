@@ -8,8 +8,7 @@
 
 
 # Microsoft Corporation Needs Analysis
-![Alt text](c:/Users/Hp/Documents/Flatiron/Phase-1/dsc-phase-1-project/images/Microsoft.jpg)
-![Microsoft](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/fad5c1cd-74da-46e0-8654-cab03895aa5f)
+![download](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/17753733-f5f2-4cff-b67b-f91b8cb10818)
 ## Overview
 This project explores the types of films that are currently doing well at the box office and  the needs of the [Microsoft Corporation](https://www.microsoft.com/) which wants to set up a new movie studio. The Microsoft corporation can use these insights to decide what type of films to create.
 
