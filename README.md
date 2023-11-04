@@ -41,8 +41,7 @@ The top 2 movies genres produced in the industry are:
 
 Companies that release movies on Friday Made the highest Return on Investment by a huge margin. The worst days to release a movie would be Saturday through Monday.
 
-![ROI vs Release_date](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/310631de-1dd2-4a19-a523-fd3a9828a66f)
-
+![ROI vs Release_date](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/e880f253-1987-41cd-a858-1ddad2bdedb3)
 ## Conclusion
 This analysis leads to three recommendations that Microsoft Corporation can take into account before deciding on what movies to make:
 
