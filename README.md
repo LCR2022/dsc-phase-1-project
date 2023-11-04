@@ -37,11 +37,13 @@ The top 3 movies genres produced in the industry are:
 The bottom 3 movies genres produced in the industry are:
 * Short, Adult, Game-Shows
 
+![ROI vs Genre](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/669b118c-5a33-4d2a-97c9-c937c77a037b)
 
-![ROI vs Genre](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/d2068746-ff5e-4908-8317-f39a5da34bb9)
 ### 3. Friday is the best day to release a movie
 
 Companies that release movies on Friday Made the highest Return on Investment by a huge margin. The worst days to release a movie would be Saturday through Monday.
+
+![ROI vs Release_date](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/310631de-1dd2-4a19-a523-fd3a9828a66f)
 
 ## Conclusion
 This analysis leads to three recommendations that Microsoft Corporation can take into account before deciding on what movies to make:
