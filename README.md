@@ -29,7 +29,8 @@ This project utilizes descriptive analysis, including a description of trends ov
 ## Results
 ### 1. Movie Production is declining
 From 2019, the number of movies produced peaked in 2018 and in 2019, started to decline coinciding with the COVID-19 pandemic. The industry is yet to pick up the production rate which appears to have leveled off.
-![Alt text](c:/Users/Hp/Documents/Flatiron/Phase-1/dsc-phase-1-project/images/Capture.PNG)
+
+![Capture](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/bcda43f4-68e7-4a13-9011-ab94a7fa9a96)
 
 ### 2. Drama is the most popular Movie Genre.
 The top 3 movies genres produced in the industry are:
