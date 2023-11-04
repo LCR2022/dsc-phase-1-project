@@ -32,10 +32,8 @@ From 2019, the number of movies produced peaked in 2018 and in 2019, started to 
 ![Capture](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/bcda43f4-68e7-4a13-9011-ab94a7fa9a96)
 
 ### 2. Drama is the most lucrative Movie Genre.
-The top 3 movies genres produced in the industry are:
-* Drama, Documentary, Comedy 
-The bottom 3 movies genres produced in the industry are:
-* Short, Adult, Game-Shows
+The top 2 movies genres produced in the industry are:
+* Drama and Documentary 
 
 ![ROI vs Genre](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/669b118c-5a33-4d2a-97c9-c937c77a037b)
 
