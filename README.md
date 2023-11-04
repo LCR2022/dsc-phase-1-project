@@ -31,12 +31,12 @@ From 2019, the number of movies produced peaked in 2018 and in 2019, started to 
 
 ![Capture](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/bcda43f4-68e7-4a13-9011-ab94a7fa9a96)
 
-### 2. Drama is the most popular Movie Genre.
+### 2. Drama is the most lucrative Movie Genre.
 The top 3 movies genres produced in the industry are:
 * Drama, Documentary, Comedy 
 The bottom 3 movies genres produced in the industry are:
 * Short, Adult, Game-Shows
-
+![ROI vs Genre](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/d2068746-ff5e-4908-8317-f39a5da34bb9)
 ### 3. Friday is the best day to release a movie
 
 Companies that release movies on Friday Made the highest Return on Investment by a huge margin. The worst days to release a movie would be Saturday through Monday.
