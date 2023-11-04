@@ -36,6 +36,8 @@ The top 3 movies genres produced in the industry are:
 * Drama, Documentary, Comedy 
 The bottom 3 movies genres produced in the industry are:
 * Short, Adult, Game-Shows
+
+
 ![ROI vs Genre](https://github.com/LCR2022/dsc-phase-1-project/assets/99391873/d2068746-ff5e-4908-8317-f39a5da34bb9)
 ### 3. Friday is the best day to release a movie
 
