@@ -49,6 +49,7 @@ This analysis leads to three recommendations that Microsoft Corporation can take
 
 * Focus on producing either of the top 2 genres: Drama and Documentary which also have the highest Return on Investment
 * Release any movies it intends to produce on a Friday to realize the highest Return on Investment.
+* Microsoft should also explore overseas markets as well as the profit sometimes is higher than the domestic profit.
 
 ## Next steps
 Further analyses could yield additional insights to further improve operations at AAC:
